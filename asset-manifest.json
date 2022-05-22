@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/testWebSitev0.2/static/css/main.cb4db1b6.chunk.css",
-    "main.js": "/testWebSitev0.2/static/js/main.356c9bea.chunk.js",
-    "main.js.map": "/testWebSitev0.2/static/js/main.356c9bea.chunk.js.map",
+    "main.js": "/testWebSitev0.2/static/js/main.00c7063c.chunk.js",
+    "main.js.map": "/testWebSitev0.2/static/js/main.00c7063c.chunk.js.map",
     "runtime-main.js": "/testWebSitev0.2/static/js/runtime-main.2d588f2e.js",
     "runtime-main.js.map": "/testWebSitev0.2/static/js/runtime-main.2d588f2e.js.map",
     "static/js/2.6edb035d.chunk.js": "/testWebSitev0.2/static/js/2.6edb035d.chunk.js",
@@ -12,24 +12,12 @@
     "index.html": "/testWebSitev0.2/index.html",
     "static/css/main.cb4db1b6.chunk.css.map": "/testWebSitev0.2/static/css/main.cb4db1b6.chunk.css.map",
     "static/js/2.6edb035d.chunk.js.LICENSE.txt": "/testWebSitev0.2/static/js/2.6edb035d.chunk.js.LICENSE.txt",
-    "static/media/reset.css": "/testWebSitev0.2/static/media/font.617a0a92.woff",
-    "config/images/bg.png": "/testWebSitev0.2/config/images/bg.png",
-    "config/images/example.gif": "/testWebSitev0.2/config/images/example.gif",
-    "config/images/logo.png": "/testWebSitev0.2/config/images/logo.png",
-    "config/abi.json": "/testWebSitev0.2/config/abi.json",
-    "config/config.json": "/testWebSitev0.2/config/config.json",
-    "config/theme.css": "/testWebSitev0.2/config/theme.css"
+    "static/media/reset.css": "/testWebSitev0.2/static/media/font.617a0a92.woff"
   },
   "entrypoints": [
-    "config/images/bg.png",
-    "config/images/example.gif",
-    "config/images/logo.png",
-    "config/abi.json",
-    "config/config.json",
-    "config/theme.css",
     "static/js/runtime-main.2d588f2e.js",
     "static/js/2.6edb035d.chunk.js",
     "static/css/main.cb4db1b6.chunk.css",
-    "static/js/main.356c9bea.chunk.js"
+    "static/js/main.00c7063c.chunk.js"
   ]
 }
