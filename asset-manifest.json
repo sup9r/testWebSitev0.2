@@ -12,9 +12,21 @@
     "index.html": "/testWebSitev0.2/index.html",
     "static/css/main.cb4db1b6.chunk.css.map": "/testWebSitev0.2/static/css/main.cb4db1b6.chunk.css.map",
     "static/js/2.6edb035d.chunk.js.LICENSE.txt": "/testWebSitev0.2/static/js/2.6edb035d.chunk.js.LICENSE.txt",
-    "static/media/reset.css": "/testWebSitev0.2/static/media/font.617a0a92.woff"
+    "static/media/reset.css": "/testWebSitev0.2/static/media/font.617a0a92.woff",
+    "config/images/bg.png": "/testWebSitev0.2/config/images/bg.png",
+    "config/images/example.gif": "/testWebSitev0.2/config/images/example.gif",
+    "config/images/logo.png": "/testWebSitev0.2/config/images/logo.png",
+    "config/abi.json": "/testWebSitev0.2/config/abi.json",
+    "config/config.json": "/testWebSitev0.2/config/config.json",
+    "config/theme.css": "/testWebSitev0.2/config/theme.css"
   },
   "entrypoints": [
+    "config/images/bg.png",
+    "config/images/example.gif",
+    "config/images/logo.png",
+    "config/abi.json",
+    "config/config.json",
+    "config/theme.css",
     "static/js/runtime-main.2d588f2e.js",
     "static/js/2.6edb035d.chunk.js",
     "static/css/main.cb4db1b6.chunk.css",
